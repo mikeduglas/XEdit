@@ -7,7 +7,7 @@ Single line edit controls (ENTRY, COMBO, SPIN) can have 2 additional visual elem
 ![Password Eye 2](https://github.com/mikeduglas/XEdit/blob/master/eye2.png?raw=true)  
 
 This package contains a set of classes and a template.  
-It is fully compatible with [Cur banner]().
+It is fully compatible with [Cur banner](https://github.com/mikeduglas/Cue-Banner).
 
 ### Usage in an application
 - Register xedit.tpl.
