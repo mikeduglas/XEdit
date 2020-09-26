@@ -4,8 +4,8 @@ Single line edit controls (ENTRY, COMBO, SPIN) can have 2 additional visual elem
 ![ClearText Cross](https://github.com/mikeduglas/XEdit/blob/master/cross.png?raw=true)  
 - Password Eye toggles password visibility.
 ![Password Eye 1](https://github.com/mikeduglas/XEdit/blob/master/eye1.png?raw=true)
-![Password Eye 1 and Cross](https://github.com/mikeduglas/XEdit/blob/master/eye1cross.png?raw=true)  
 ![Password Eye 2](https://github.com/mikeduglas/XEdit/blob/master/eye2.png?raw=true)  
+![Password Eye 1 and Cross](https://github.com/mikeduglas/XEdit/blob/master/eye1cross.png?raw=true)  
 ![Password Eye 2 and Cross](https://github.com/mikeduglas/XEdit/blob/master/eye2cross.png?raw=true)  
 
 This package contains a set of classes and a template.  
