@@ -18,15 +18,15 @@ It is fully compatible with [Cue banner](https://github.com/mikeduglas/Cue-Banne
 That's all.  
 
 ### Usage in hand-coded project
-- Include xedit.inc file:
+Include xedit.inc file:
 ```
   INCLUDE('xedit.inc'), ONCE
 ```
-- Declare an instance of TXEditMgr class:
+Declare an instance of TXEditMgr class:
 ```
 xedtMgr  TXEditMgr
 ```
-- After OPEN(Window) add edit controls to the manager, passing control label:
+After OPEN(Window) add edit controls to the manager, passing control label:
 ```
   xedtMgr.AddControl(?sUserName)
   xedtMgr.AddControl(?sPsw)
@@ -40,7 +40,7 @@ The demo can be downloaded [here](https://www.dropbox.com/s/4jbzlficx2d4ood/XEdi
 ### Requirements
 - Clarion versions: C8..C11.  **C6.x is not supported.**
 - Template chains: ABC, Clarion.
-- Multi dll apps.
+- Multi dll apps supported.
 - Windows versions: Vista..Windows 10.  **XP is not supported.**
 
 ### Price
